@@ -1,0 +1,147 @@
+{
+  "course": [
+    {
+      "id": 1,
+      "name": "Android",
+      "tedad": 3,
+      "teacher": "Azadeh Rezaei"
+    },
+    {
+      "id": 2,
+      "name": "Wordpress",
+      "tedad": 2,
+      "teacher": "Amir Asghari"
+    },
+    {
+      "id": 3,
+      "name": "Laravel",
+      "tedad": 3,
+      "teacher": "Asghari Asghari"
+    },
+    {
+      "id": 4,
+      "name": "Php",
+      "tedad": 3,
+      "teacher": "Reza Rouhi"
+    },
+    {
+      "id": 5,
+      "name": "JavaScript",
+      "tedad": 2,
+      "teacher": "Maryam Amini"
+    },
+    {
+      "id": 6,
+      "name": "zx",
+      "tedad": 3,
+      "teacher": "Hamid Motalebi"
+    },
+
+    {
+      "id": 7,
+      "name": "asd",
+      "tedad": 3,
+      "teacher": "Hamid Motalebi"
+    }
+  ],
+  "students": [
+    {
+      "id": 1,
+      "first_name": "Fardin",
+      "last_name": "Aghadadashi",
+      "field": "Computer"
+    },
+    {
+      "id": 2,
+      "first_name": "Amir",
+      "last_name": "Malekzadeh",
+      "field": "Computer"
+    },
+    {
+      "id": 3,
+      "first_name": "Reza",
+      "last_name": "Roumizani",
+      "field": "Computer"
+    },
+    {
+      "id": 4,
+      "first_name": "Reza",
+      "last_name": "Najafi",
+      "field": "Computer"
+    },
+    {
+      "id": 5,
+      "first_name": "Farshid",
+      "last_name": "Barati",
+      "field": "Computer"
+    },
+    {
+      "id": 6,
+      "first_name": "Shayan",
+      "last_name": "Shahbazi",
+      "field": "Computer"
+    },
+    {
+      "id": 7,
+      "first_name": "Ali",
+      "last_name": "Ahmadi",
+      "field": "Computer"
+    },
+    {
+      "id": 8,
+      "first_name": "Naghi",
+      "last_name": "Mamooli",
+      "field": "Computer"
+    },
+    {
+      "id": 9,
+      "first_name": "saee",
+      "last_name": "sdsd",
+      "field": "Computer"
+    },
+    {
+      "id": 10,
+      "first_name": "asd",
+      "last_name": "asd",
+      "field": "Computer"
+    },
+    {
+      "id": 11,
+      "first_name": "asd",
+      "last_name": "asd",
+      "field": "Computer"
+    }
+  ],
+  "teachers": [
+    {
+      "id": 1,
+      "first_name": "Azadeh",
+      "last_name": "Rezaei",
+      "course": "Android"
+    },
+    {
+      "id": 2,
+      "first_name": "Hamid",
+      "last_name": "Motalebi",
+      "course": "Wordpress"
+    },
+    {
+      "id": 3,
+      "first_name": "Reza",
+      "last_name": "Rouhi",
+      "course": "Laravel"
+    },
+    {
+      "id": 4,
+      "first_name": "Maryam",
+      "last_name": "Amini",
+      "course": "Php"
+    },
+    {
+      "id": 5,
+      "first_name": "Amir",
+      "last_name": "Asghari",
+      "course": "JavaScript"
+    }
+  ]
+}
